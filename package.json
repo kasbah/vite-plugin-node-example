@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "vite": "^2.9.9",
+    "vite-plugin-node": "^1.0.0"
+  },
+  "dependencies": {
+    "bullmq": "^1.83.2",
+    "express": "^4.18.1"
+  }
+}
